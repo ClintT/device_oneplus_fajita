@@ -46,4 +46,4 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 
 BUILD_FINGERPRINT := google/coral/coral:10/QQ3A.200705.002/6506677:user/release-keys
 
-export export HAVOC_BUILD_TYPE=Official
+#export export HAVOC_BUILD_TYPE=Official
