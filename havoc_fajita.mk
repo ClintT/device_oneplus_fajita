@@ -47,3 +47,6 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 BUILD_FINGERPRINT := google/coral/coral:11/RP1A.200720.009/6720564:user/release-keys
 
 export export HAVOC_BUILD_TYPE=Official
+
+HAVOC_MAINTAINER := Clint Thebus (ClintT1)
+HAVOC_GROUP_URL := https://t.me/havoc_oneplus6
