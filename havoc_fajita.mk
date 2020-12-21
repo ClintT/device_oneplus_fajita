@@ -50,4 +50,4 @@ export export HAVOC_BUILD_TYPE=Official
 HAVOC_MAINTAINER := Clint Thebus (ClintT1)
 HAVOC_GROUP_URL := https://t.me/havoc_oneplus6
 
-BUILD_FINGERPRINT := google/coral/coral:11/RP1A.201105.002/6869500:user/release-keys
+BUILD_FINGERPRINT := google/redfin/redfin:11/RQ1A.201205.010/6953398:user/release-keys
