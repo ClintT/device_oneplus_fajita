@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/xtended_fajita.mk
+    $(LOCAL_DIR)/havoc_fajita.mk
 
 COMMON_LUNCH_CHOICES := \
-    xtended_fajita-user \
-    xtended_fajita-userdebug \
-    xtended_fajita-eng
+    havoc_fajita-user \
+    havoc_fajita-userdebug \
+    havoc_fajita-eng

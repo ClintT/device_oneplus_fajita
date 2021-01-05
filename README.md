@@ -24,6 +24,6 @@ Copyright 2018 - The LineageOS Project.
 
 ```
 # Compiling
-lunch xtended_fajita-userdebug (this will auto pull all dependencies)
+lunch havoc_fajita-userdebug (this will auto pull all dependencies)
 m[ake|ka] bacon -jx (where x is the number of jobs to run on parallel threads)
 ```
