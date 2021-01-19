@@ -37,10 +37,6 @@ WITH_GAPPS := true
 # FOD Animation
 EXTRA_FOD_ANIMATIONS := true
 
-# TWRP
-PRODUCT_PROPERTY_OVERRIDES += \
-    ro.product.device=OnePlus6T
-
 # Device identifier. This must come after all inclusions.
 PRODUCT_NAME := havoc_fajita
 PRODUCT_DEVICE := fajita
