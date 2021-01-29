@@ -50,3 +50,7 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_DEVICE=OnePlus6T \
     PRODUCT_NAME=OnePlus6T \
     PRIVATE_BUILD_DESC="OnePlus6T-user 9 PKQ1.180716.001 1812260627 release-keys"
+    
+#Maintainer    
+HAVOC_MAINTAINER := Clint Thebus (ClintT1)
+HAVOC_GROUP_URL := https://t.me/havoc_oneplus6
