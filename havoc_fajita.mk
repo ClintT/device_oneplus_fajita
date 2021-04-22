@@ -55,6 +55,7 @@ PRODUCT_GMS_CLIENTID_BASE := android-oneplus
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_DEVICE=OnePlus6T \
     PRODUCT_NAME=OnePlus6T \
-    PRIVATE_BUILD_DESC="redfin-user 11 RQ2A.210305.006 7119741 release-keys"
+    PRIVATE_BUILD_DESC="google/redfin/redfin:11/RQ2A.210405.005/7181113:user/release-keys"
 
-BUILD_FINGERPRINT := google/redfin/redfin:11/RQ2A.210305.006/7119741:user/release-keys
+# Build fingerprint
+BUILD_FINGERPRINT := "google/redfin/redfin:11/RQ2A.210405.005/7181113:user/release-keys"
